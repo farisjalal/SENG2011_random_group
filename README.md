@@ -2,7 +2,7 @@
 
 ### SENG2021 Project Team: random_group 
 
-Stephen Bletsas (z5257110)  
+Stephen Bletsas (z557110)  
 Faris Jalal (z5262405)  
 Vishnu Birudavolu (z5280782)  
 Rushil Pardasani (z5266512)  
